@@ -1,0 +1,1001 @@
+Ad,Cinsiyet,Yaş,Tansiyon,Şeker,Kolestrol,Sigara,Teşhis
+Christopher Vasquez,Kadın,68,148,Normal,299,Evet,Hipertansiyon
+Joanne Santos,Erkek,85,152,Yüksek,126,Evet,Diabet
+Sara Best,Erkek,21,110,Normal,232,Hayır,Astım
+Ricky Davis,Erkek,75,126,Yüksek,167,Hayır,Kalp Hastalığı
+Jennifer Johnson,Kadın,18,137,Yüksek,193,Evet,Hipertansiyon
+Dylan Delgado,Erkek,86,109,Normal,160,Hayır,Kanser
+Michelle Brown,Kadın,25,187,Yüksek,267,Evet,Hipertansiyon
+Natasha Thornton,Erkek,61,185,Yüksek,255,Evet,Diabet
+Ashley Valentine,Kadın,33,108,Yüksek,117,Evet,Kanser
+Sarah Miller,Erkek,89,144,Normal,147,Evet,Kanser
+Andre Wells,Kadın,73,161,Yüksek,253,Hayır,Hipertansiyon
+Matthew Powell,Erkek,30,144,Yüksek,212,Evet,Astım
+Anthony Castillo,Erkek,75,182,Normal,105,Hayır,Astım
+Darrell West,Kadın,61,174,Yüksek,137,Evet,Kanser
+Terry Hall,Kadın,88,91,Normal,180,Evet,Hipertansiyon
+James Peters,Erkek,18,130,Normal,103,Hayır,Kalp Hastalığı
+Ronald Mcbride,Kadın,49,169,Yüksek,120,Evet,Kanser
+Bradley Warren,Erkek,32,107,Yüksek,213,Hayır,Kalp Hastalığı
+Linda Howard,Erkek,46,90,Normal,108,Hayır,Astım
+Alyssa Watkins,Kadın,45,122,Normal,104,Evet,Astım
+Pamela Cortez,Kadın,70,87,Normal,153,Hayır,Astım
+Tracy Jackson,Erkek,73,153,Normal,300,Evet,Diabet
+Angela Scott,Erkek,23,159,Yüksek,253,Evet,Astım
+Zachary Graham,Kadın,78,148,Yüksek,119,Hayır,Diabet
+Zachary Stokes,Kadın,62,121,Yüksek,248,Evet,Hipertansiyon
+Sara Graham,Kadın,19,134,Normal,144,Hayır,Astım
+Justin Berg,Erkek,30,173,Normal,249,Evet,Kalp Hastalığı
+Travis Stanley,Kadın,36,148,Normal,209,Hayır,Kanser
+Annette Smith,Kadın,90,199,Yüksek,137,Hayır,Diabet
+Randall Rivera,Erkek,27,104,Yüksek,165,Evet,Kanser
+Troy Arnold,Erkek,47,112,Normal,124,Evet,Kalp Hastalığı
+Jeffrey Krueger,Kadın,24,160,Normal,130,Hayır,Hipertansiyon
+Patricia Jennings,Kadın,56,190,Yüksek,101,Hayır,Astım
+Kristine Martin,Kadın,80,103,Normal,282,Hayır,Kalp Hastalığı
+Julie Cohen,Kadın,86,181,Yüksek,245,Evet,Kalp Hastalığı
+Timothy Lopez,Kadın,84,100,Yüksek,223,Hayır,Hipertansiyon
+Calvin Lopez,Kadın,32,163,Yüksek,241,Evet,Hipertansiyon
+Peter Massey,Erkek,83,179,Normal,142,Hayır,Diabet
+Katherine Kemp,Erkek,65,96,Yüksek,178,Evet,Hipertansiyon
+Barbara Velazquez,Erkek,43,154,Yüksek,263,Hayır,Kanser
+David Hernandez,Kadın,76,120,Normal,227,Evet,Astım
+Adrian Mathews,Kadın,54,180,Normal,271,Hayır,Kanser
+Ryan Kelley,Erkek,24,113,Normal,241,Hayır,Astım
+Amanda Green,Erkek,60,117,Yüksek,147,Hayır,Astım
+Ryan Jones,Erkek,23,140,Normal,272,Hayır,Kalp Hastalığı
+John Kelly,Kadın,40,110,Yüksek,284,Evet,Diabet
+Tiffany Ballard,Erkek,24,156,Normal,278,Evet,Hipertansiyon
+Anita Cohen,Kadın,21,168,Yüksek,157,Evet,Hipertansiyon
+Lydia Porter,Kadın,61,94,Normal,200,Hayır,Kanser
+Adam Massey,Kadın,18,171,Normal,134,Evet,Hipertansiyon
+Rhonda Thomas,Erkek,45,89,Yüksek,169,Evet,Diabet
+Roger Randall,Erkek,79,181,Normal,181,Evet,Diabet
+Michael White,Kadın,67,143,Normal,254,Evet,Astım
+Marissa Carlson,Erkek,70,84,Yüksek,192,Hayır,Kalp Hastalığı
+Ann Wilson,Erkek,47,114,Yüksek,283,Evet,Diabet
+Darrell Gibson,Erkek,57,150,Yüksek,227,Hayır,Diabet
+Christopher Thompson,Erkek,23,112,Yüksek,166,Hayır,Kalp Hastalığı
+Bobby Morales,Erkek,20,187,Normal,279,Hayır,Diabet
+Richard Robinson,Kadın,58,176,Normal,261,Hayır,Kanser
+Michael Jensen,Erkek,81,156,Yüksek,228,Hayır,Diabet
+Robert Brown,Kadın,57,135,Normal,299,Hayır,Kanser
+Julie Gonzalez,Kadın,75,144,Normal,233,Hayır,Hipertansiyon
+Elizabeth Washington,Erkek,63,188,Normal,157,Hayır,Hipertansiyon
+Richard White,Erkek,50,89,Yüksek,219,Hayır,Diabet
+Henry Diaz,Kadın,44,200,Yüksek,204,Evet,Hipertansiyon
+Gary Hunt,Erkek,75,163,Normal,180,Hayır,Kalp Hastalığı
+Patrick Thornton,Erkek,39,111,Normal,101,Evet,Hipertansiyon
+Samuel Mejia,Kadın,29,185,Normal,205,Hayır,Hipertansiyon
+Anthony Ortiz,Erkek,68,143,Yüksek,261,Hayır,Hipertansiyon
+David Watson,Erkek,87,198,Normal,157,Evet,Kalp Hastalığı
+Patricia Long,Erkek,65,154,Yüksek,159,Hayır,Hipertansiyon
+Paul Lopez,Kadın,20,179,Yüksek,217,Evet,Hipertansiyon
+William Garrison,Erkek,66,174,Yüksek,111,Hayır,Kanser
+Steven Jimenez,Erkek,33,178,Normal,168,Hayır,Hipertansiyon
+Mary Stanley,Kadın,21,171,Yüksek,201,Hayır,Hipertansiyon
+Brandon Davis,Kadın,67,112,Yüksek,252,Evet,Hipertansiyon
+Jonathan Floyd,Kadın,38,82,Yüksek,183,Evet,Diabet
+Michael Estrada,Kadın,28,97,Yüksek,250,Hayır,Hipertansiyon
+Melissa Mcdaniel,Kadın,30,112,Normal,282,Hayır,Kalp Hastalığı
+Jeffrey Cochran,Kadın,73,107,Yüksek,186,Evet,Diabet
+Catherine Monroe,Erkek,54,139,Normal,114,Hayır,Astım
+Jeremy Figueroa,Erkek,18,180,Yüksek,220,Hayır,Hipertansiyon
+Alexandra Hogan,Erkek,80,182,Normal,294,Evet,Hipertansiyon
+Jill Patterson,Erkek,55,129,Yüksek,103,Hayır,Kalp Hastalığı
+Denise Hunt,Kadın,69,109,Normal,232,Evet,Hipertansiyon
+Jill Stephenson,Erkek,90,196,Normal,129,Evet,Hipertansiyon
+Daniel Larson,Erkek,49,148,Normal,297,Hayır,Kalp Hastalığı
+Ryan Ramirez,Kadın,39,115,Yüksek,195,Evet,Kalp Hastalığı
+Donna Williams,Erkek,43,90,Normal,246,Hayır,Astım
+Robert Irwin,Erkek,26,152,Normal,292,Evet,Hipertansiyon
+Patricia Clark,Kadın,89,190,Normal,232,Evet,Kalp Hastalığı
+Erik Perry,Erkek,71,155,Yüksek,109,Hayır,Kalp Hastalığı
+Stacy Warren,Erkek,54,143,Normal,208,Evet,Diabet
+Ryan Gonzalez,Erkek,37,124,Yüksek,268,Evet,Kalp Hastalığı
+Robert Woods,Kadın,68,174,Normal,138,Evet,Astım
+Andrew Hill,Erkek,31,113,Yüksek,178,Hayır,Kalp Hastalığı
+Dustin Lawrence,Erkek,84,107,Yüksek,133,Evet,Kalp Hastalığı
+Julie Johnson,Kadın,26,106,Normal,234,Hayır,Astım
+Matthew Gonzalez,Erkek,44,196,Normal,253,Evet,Hipertansiyon
+Kenneth Taylor,Kadın,38,100,Yüksek,232,Evet,Diabet
+Richard Gilbert,Erkek,38,146,Yüksek,143,Hayır,Kanser
+James Watson,Kadın,58,198,Yüksek,154,Evet,Kalp Hastalığı
+Andrew Gonzalez,Erkek,37,180,Normal,219,Hayır,Astım
+Scott Munoz,Kadın,73,115,Normal,250,Evet,Kalp Hastalığı
+Jade Mcdonald,Kadın,45,189,Normal,158,Evet,Astım
+Alex Phillips,Erkek,77,125,Normal,239,Hayır,Hipertansiyon
+Elizabeth Hughes,Kadın,64,139,Normal,137,Hayır,Kanser
+Kenneth Gutierrez,Erkek,79,187,Yüksek,100,Hayır,Hipertansiyon
+William Flynn MD,Erkek,52,94,Normal,272,Evet,Astım
+David Chaney,Kadın,28,141,Yüksek,196,Evet,Diabet
+Jimmy Frye,Erkek,43,158,Normal,215,Evet,Hipertansiyon
+Angelica Moore,Erkek,45,127,Yüksek,152,Hayır,Kanser
+Stephen Bell,Erkek,54,198,Normal,127,Hayır,Diabet
+Brett Gonzales,Erkek,68,175,Normal,117,Evet,Kalp Hastalığı
+Daniel Gilbert,Kadın,89,199,Normal,192,Hayır,Astım
+Richard Woods,Kadın,76,141,Normal,126,Evet,Astım
+Elizabeth Thomas,Erkek,77,192,Yüksek,143,Hayır,Hipertansiyon
+Jesus Brown,Erkek,48,122,Normal,177,Evet,Kanser
+Rebekah Koch,Kadın,32,87,Yüksek,113,Hayır,Hipertansiyon
+Yolanda Alexander,Erkek,67,181,Yüksek,212,Evet,Kalp Hastalığı
+George Swanson,Kadın,19,120,Normal,126,Hayır,Kalp Hastalığı
+Joel Stark,Erkek,60,116,Yüksek,227,Evet,Astım
+Tina Poole,Erkek,39,194,Normal,281,Hayır,Hipertansiyon
+Heather Hughes,Erkek,34,169,Yüksek,255,Hayır,Hipertansiyon
+Cindy Hickman,Erkek,54,85,Yüksek,205,Hayır,Diabet
+Brian Arnold,Erkek,38,168,Normal,233,Hayır,Kanser
+Mrs. Dawn Hopkins DDS,Kadın,86,195,Yüksek,294,Hayır,Hipertansiyon
+Mrs. Michelle Johnson DDS,Kadın,30,183,Normal,105,Hayır,Astım
+Steven Dean,Kadın,73,152,Yüksek,207,Hayır,Diabet
+Dana Chavez,Erkek,43,95,Normal,113,Hayır,Astım
+Nancy Wilson,Erkek,41,163,Normal,284,Evet,Kanser
+Miranda Kirk,Kadın,56,110,Yüksek,229,Evet,Kalp Hastalığı
+Karen Evans,Kadın,60,147,Yüksek,154,Hayır,Kanser
+Matthew Parker,Erkek,32,188,Yüksek,101,Evet,Diabet
+Sherry Johnson,Erkek,64,193,Normal,121,Hayır,Hipertansiyon
+Dennis Martin,Erkek,61,198,Yüksek,281,Evet,Kanser
+Kathy Buckley,Kadın,31,103,Yüksek,264,Evet,Kalp Hastalığı
+Michael Perry,Kadın,56,118,Normal,217,Hayır,Hipertansiyon
+Robert Vang DDS,Erkek,41,185,Normal,193,Evet,Hipertansiyon
+Timothy Lee,Kadın,73,195,Normal,293,Hayır,Astım
+Amy Gordon,Erkek,65,197,Yüksek,189,Hayır,Kanser
+Ronald Spencer,Erkek,39,170,Yüksek,157,Hayır,Diabet
+James Gomez,Erkek,73,123,Yüksek,264,Hayır,Hipertansiyon
+Michael Hull,Erkek,55,118,Yüksek,206,Hayır,Astım
+Arthur Davis,Erkek,62,178,Normal,246,Hayır,Astım
+Robert Brown,Erkek,54,118,Yüksek,265,Hayır,Kanser
+Andrew Yates,Erkek,49,187,Normal,276,Hayır,Kalp Hastalığı
+Heather Forbes,Erkek,48,82,Yüksek,219,Hayır,Astım
+Christina Dodson,Kadın,51,192,Normal,271,Hayır,Diabet
+Connie Henry,Erkek,21,102,Yüksek,283,Evet,Hipertansiyon
+Angela Hall,Kadın,20,99,Yüksek,254,Evet,Kanser
+John Kelly,Kadın,48,85,Normal,112,Evet,Diabet
+Cameron Sanchez Jr.,Kadın,69,188,Normal,293,Evet,Kalp Hastalığı
+Phillip Lynch,Erkek,30,164,Yüksek,232,Evet,Hipertansiyon
+Allen Horn,Erkek,89,128,Yüksek,283,Evet,Kalp Hastalığı
+Carlos Adams,Erkek,26,110,Normal,217,Hayır,Astım
+John Terry,Erkek,27,122,Yüksek,214,Evet,Diabet
+Terri Roach,Erkek,53,93,Normal,228,Evet,Hipertansiyon
+Keith Miller,Kadın,70,145,Yüksek,183,Evet,Hipertansiyon
+Laura Miller,Erkek,27,85,Normal,230,Hayır,Diabet
+Samuel Hampton,Erkek,68,165,Yüksek,270,Hayır,Hipertansiyon
+Alicia Harris,Kadın,70,187,Yüksek,185,Hayır,Astım
+Bryan Kelley,Erkek,78,120,Yüksek,170,Hayır,Hipertansiyon
+Alyssa Doyle,Kadın,30,165,Normal,208,Hayır,Kalp Hastalığı
+Janice Vaughn,Erkek,52,174,Yüksek,149,Evet,Diabet
+Jessica Watkins,Kadın,46,130,Yüksek,134,Evet,Astım
+Bradley Hooper,Kadın,52,162,Yüksek,163,Hayır,Hipertansiyon
+Beth Ruiz,Erkek,35,87,Yüksek,256,Hayır,Diabet
+Wesley Bell,Kadın,31,142,Yüksek,263,Hayır,Diabet
+Stephen Kidd,Erkek,78,115,Yüksek,215,Evet,Diabet
+Cynthia Robinson,Erkek,70,134,Normal,170,Evet,Astım
+Steven Parrish,Kadın,76,118,Normal,262,Evet,Kalp Hastalığı
+Jim Aguirre,Erkek,37,100,Normal,128,Evet,Diabet
+Renee Hernandez,Kadın,78,90,Normal,155,Evet,Astım
+Michael Young,Erkek,70,116,Normal,210,Evet,Diabet
+Paul Martin,Erkek,53,118,Normal,292,Hayır,Kalp Hastalığı
+John Wallace,Kadın,84,137,Normal,132,Hayır,Hipertansiyon
+Matthew Caldwell,Kadın,70,155,Yüksek,221,Hayır,Diabet
+Richard Mcguire,Kadın,69,102,Normal,270,Evet,Hipertansiyon
+Gary Williams,Kadın,65,113,Yüksek,105,Evet,Astım
+Anthony Martinez,Erkek,40,161,Normal,147,Hayır,Astım
+William Duffy,Kadın,83,109,Normal,124,Hayır,Kanser
+Kevin Simpson,Kadın,74,191,Yüksek,110,Hayır,Diabet
+Richard Scott,Erkek,48,167,Yüksek,169,Evet,Kanser
+Jill Lopez,Erkek,50,104,Yüksek,158,Evet,Diabet
+Joseph Knight,Erkek,60,127,Yüksek,139,Evet,Hipertansiyon
+Edward Perez,Erkek,50,120,Yüksek,170,Hayır,Kalp Hastalığı
+Mark Wilson,Erkek,84,151,Normal,224,Hayır,Kanser
+Heather Smith,Erkek,19,185,Normal,186,Hayır,Kalp Hastalığı
+Caitlin Jones,Kadın,38,185,Yüksek,223,Hayır,Kalp Hastalığı
+Cheryl Curtis,Erkek,84,164,Yüksek,185,Hayır,Kanser
+Kimberly Villegas,Erkek,73,124,Normal,142,Evet,Kanser
+Cheryl Turner,Kadın,63,149,Yüksek,164,Evet,Hipertansiyon
+Jonathan Weaver,Erkek,30,146,Yüksek,115,Hayır,Astım
+Mrs. Lisa Hinton MD,Erkek,53,118,Yüksek,218,Evet,Hipertansiyon
+Matthew Williams,Kadın,56,121,Yüksek,274,Evet,Kalp Hastalığı
+Dustin Acevedo,Erkek,85,196,Yüksek,289,Hayır,Hipertansiyon
+Christopher Wilson,Erkek,69,117,Yüksek,140,Evet,Diabet
+Mary Hardy,Kadın,82,157,Yüksek,261,Evet,Diabet
+Rachel Holmes,Kadın,31,173,Normal,276,Evet,Astım
+Kimberly Palmer,Erkek,41,161,Normal,119,Evet,Astım
+Zachary Davis,Erkek,43,86,Normal,210,Hayır,Kanser
+Christopher Morris,Erkek,19,111,Normal,298,Hayır,Kalp Hastalığı
+Michael Medina,Kadın,56,148,Yüksek,226,Hayır,Astım
+Sherry Vasquez,Erkek,61,129,Yüksek,234,Hayır,Kanser
+Raymond Chang,Erkek,32,182,Normal,139,Evet,Astım
+Adrian Fritz,Erkek,65,154,Normal,181,Evet,Diabet
+Patricia Davis,Erkek,26,185,Yüksek,148,Hayır,Diabet
+David Roberson,Erkek,84,94,Normal,241,Evet,Kanser
+Tyler Solomon,Erkek,48,91,Yüksek,273,Evet,Kanser
+Samuel Brown,Kadın,42,147,Normal,183,Hayır,Hipertansiyon
+Brian Stevens,Kadın,24,81,Yüksek,174,Hayır,Diabet
+Andrew Jones,Erkek,77,150,Normal,195,Hayır,Diabet
+Michael Clark,Erkek,66,183,Normal,139,Evet,Diabet
+Brian Fox,Erkek,80,159,Yüksek,265,Evet,Diabet
+Deborah Mckinney,Erkek,44,186,Yüksek,287,Hayır,Kanser
+Mark Hughes,Kadın,23,156,Yüksek,281,Evet,Diabet
+David Francis,Erkek,19,160,Normal,243,Evet,Astım
+Joel Williams,Erkek,77,120,Yüksek,155,Hayır,Kalp Hastalığı
+David Brown,Kadın,64,169,Normal,178,Hayır,Astım
+Stacey Armstrong,Erkek,46,117,Yüksek,190,Hayır,Kalp Hastalığı
+Michelle Jones,Erkek,75,105,Yüksek,232,Hayır,Kanser
+Rebecca Mcgee,Erkek,21,165,Normal,199,Evet,Hipertansiyon
+Kristin Walker,Erkek,46,94,Normal,133,Hayır,Astım
+James Hanson,Kadın,88,180,Normal,216,Evet,Hipertansiyon
+Michelle Baker,Kadın,20,117,Normal,190,Hayır,Hipertansiyon
+Kelly Simmons DDS,Erkek,78,181,Yüksek,239,Hayır,Kalp Hastalığı
+Kevin Jones,Kadın,56,188,Yüksek,228,Evet,Astım
+Michael Sutton,Kadın,78,91,Normal,242,Evet,Hipertansiyon
+Denise Patterson,Erkek,47,153,Normal,126,Evet,Kalp Hastalığı
+Scott Goodwin,Erkek,69,145,Normal,247,Evet,Astım
+Marvin Lopez,Kadın,52,177,Yüksek,223,Hayır,Kalp Hastalığı
+Stefanie Sparks,Erkek,48,105,Yüksek,115,Evet,Kanser
+Jennifer Jones,Erkek,42,130,Normal,221,Hayır,Kanser
+Victor Greer,Kadın,20,175,Normal,137,Evet,Astım
+Susan Collier,Kadın,21,134,Normal,139,Evet,Hipertansiyon
+Luis Franco,Kadın,51,193,Yüksek,233,Evet,Kalp Hastalığı
+Katherine Oliver,Erkek,68,164,Yüksek,262,Hayır,Kalp Hastalığı
+Don Alexander,Kadın,25,110,Yüksek,248,Hayır,Astım
+Charles Pineda,Kadın,34,100,Yüksek,289,Hayır,Astım
+Joseph Sanchez,Erkek,46,188,Yüksek,281,Evet,Kalp Hastalığı
+Robert Newton,Kadın,84,148,Normal,285,Hayır,Hipertansiyon
+Ryan Williams,Kadın,70,89,Normal,267,Hayır,Diabet
+Jeffrey Douglas,Kadın,63,113,Normal,126,Evet,Astım
+Joseph Evans,Erkek,61,96,Yüksek,169,Evet,Kalp Hastalığı
+Elizabeth Rogers,Kadın,45,180,Normal,222,Hayır,Diabet
+Danielle Gonzalez,Kadın,58,94,Normal,181,Evet,Hipertansiyon
+John Gardner,Kadın,19,136,Normal,261,Hayır,Hipertansiyon
+Mark Rice,Kadın,76,82,Normal,185,Evet,Astım
+Mariah Smith,Erkek,48,93,Yüksek,138,Hayır,Astım
+Ashley Gardner,Kadın,32,88,Normal,167,Hayır,Kalp Hastalığı
+Elizabeth Mcmillan,Erkek,64,172,Yüksek,234,Hayır,Kalp Hastalığı
+Kim Reed,Erkek,70,118,Normal,213,Hayır,Hipertansiyon
+Thomas Reid,Kadın,36,137,Yüksek,102,Evet,Diabet
+Melinda Johnson,Erkek,52,165,Normal,224,Hayır,Astım
+Thomas Nichols,Kadın,81,128,Yüksek,150,Evet,Astım
+Mr. Jeffrey Golden PhD,Kadın,65,165,Yüksek,226,Evet,Kanser
+William Ross,Erkek,47,140,Normal,261,Evet,Astım
+Yvonne Rush,Erkek,51,117,Yüksek,109,Evet,Kalp Hastalığı
+Stephanie Collins,Kadın,52,127,Normal,275,Evet,Kanser
+Rebecca Davis,Kadın,72,167,Normal,140,Hayır,Kanser
+Selena Long,Erkek,23,171,Yüksek,233,Evet,Diabet
+Joanna Nichols,Erkek,65,91,Yüksek,234,Evet,Kanser
+Debbie Allen,Kadın,82,199,Normal,195,Hayır,Hipertansiyon
+Danielle Johnson,Erkek,62,191,Yüksek,190,Hayır,Astım
+Katherine Russo,Kadın,54,114,Normal,132,Evet,Kalp Hastalığı
+Sean Castro DDS,Kadın,51,110,Normal,179,Evet,Diabet
+Kirsten Butler,Kadın,45,159,Normal,198,Evet,Kanser
+Daniel Smith,Kadın,34,116,Normal,161,Hayır,Diabet
+Linda Monroe,Kadın,31,120,Yüksek,272,Evet,Hipertansiyon
+Ronnie Burke,Erkek,48,140,Normal,153,Evet,Astım
+Alexis Baker,Erkek,35,134,Normal,148,Hayır,Hipertansiyon
+Jose Fry,Kadın,83,128,Yüksek,169,Evet,Astım
+Tammie Smith,Kadın,27,190,Yüksek,117,Evet,Kalp Hastalığı
+Emily Anthony,Erkek,21,87,Normal,240,Hayır,Diabet
+Katherine Berger,Erkek,32,192,Normal,255,Hayır,Hipertansiyon
+Nicole Ward,Kadın,21,96,Normal,270,Evet,Kanser
+Anthony Ward,Erkek,85,90,Normal,272,Hayır,Kalp Hastalığı
+Theresa Robinson DDS,Erkek,31,96,Normal,281,Evet,Kanser
+Allison Morris,Kadın,26,82,Normal,120,Evet,Hipertansiyon
+Lisa Larsen,Kadın,89,197,Yüksek,167,Hayır,Kalp Hastalığı
+Brendan Clark,Erkek,61,103,Yüksek,126,Evet,Kanser
+Alisha Jenkins,Kadın,59,119,Normal,277,Hayır,Astım
+Courtney Carroll,Kadın,28,190,Normal,193,Evet,Diabet
+Stephanie Michael,Kadın,31,178,Normal,152,Evet,Astım
+Alexander Curtis,Kadın,81,85,Yüksek,228,Evet,Hipertansiyon
+Angela House,Kadın,90,82,Yüksek,136,Evet,Kalp Hastalığı
+Stephanie Wilson,Kadın,45,112,Yüksek,224,Hayır,Hipertansiyon
+Patrick Beltran,Kadın,54,179,Normal,154,Evet,Kalp Hastalığı
+Lisa Novak,Kadın,59,154,Yüksek,168,Evet,Kanser
+Jacqueline Nguyen,Kadın,41,119,Normal,219,Evet,Hipertansiyon
+Dana Garcia,Kadın,31,112,Normal,203,Evet,Kalp Hastalığı
+Sara Porter,Kadın,85,126,Normal,219,Evet,Diabet
+Douglas Lloyd,Kadın,49,172,Yüksek,170,Hayır,Diabet
+Carlos Duncan,Kadın,65,173,Yüksek,239,Hayır,Kalp Hastalığı
+Catherine Marshall,Erkek,40,122,Yüksek,168,Evet,Hipertansiyon
+Jasmine Thompson,Kadın,60,109,Yüksek,196,Hayır,Diabet
+Sabrina Andrews,Erkek,81,81,Yüksek,226,Evet,Astım
+Kathy Velez,Kadın,80,138,Normal,290,Hayır,Astım
+Ashley Scott,Kadın,40,165,Yüksek,229,Hayır,Kalp Hastalığı
+Craig Cook,Erkek,40,136,Normal,290,Hayır,Kanser
+Beverly Anderson,Kadın,36,131,Yüksek,211,Hayır,Kalp Hastalığı
+Marisa Green,Kadın,43,131,Normal,155,Evet,Kalp Hastalığı
+Kristin Lambert,Erkek,28,84,Yüksek,230,Hayır,Hipertansiyon
+Robin Owens,Erkek,18,112,Yüksek,270,Evet,Astım
+Troy Byrd,Erkek,50,154,Normal,174,Hayır,Kanser
+Julie Hicks,Erkek,77,121,Normal,235,Evet,Kanser
+Michael Ford,Kadın,71,132,Normal,149,Evet,Kanser
+Erika Alvarez,Erkek,69,128,Yüksek,113,Hayır,Kalp Hastalığı
+Bobby Taylor,Kadın,49,184,Yüksek,230,Evet,Hipertansiyon
+Maria Hernandez,Erkek,28,156,Yüksek,159,Hayır,Kanser
+Diana Ochoa,Kadın,24,84,Normal,253,Hayır,Astım
+Donald Lopez,Erkek,59,196,Yüksek,255,Evet,Kalp Hastalığı
+Richard Gomez,Kadın,77,149,Normal,249,Evet,Kalp Hastalığı
+David Dunn,Kadın,49,114,Normal,113,Evet,Diabet
+Jerry Kelly,Kadın,72,123,Yüksek,250,Evet,Hipertansiyon
+Tracey Nixon,Kadın,47,179,Normal,168,Evet,Hipertansiyon
+Peter Zamora,Erkek,49,192,Normal,234,Evet,Diabet
+Juan Higgins,Erkek,85,200,Normal,299,Evet,Diabet
+Omar Haynes,Erkek,43,180,Yüksek,260,Hayır,Hipertansiyon
+Guy Hoover,Kadın,55,191,Yüksek,236,Hayır,Hipertansiyon
+Justin Gallegos,Erkek,43,157,Yüksek,101,Hayır,Kanser
+Ruth Rodriguez,Erkek,77,173,Normal,195,Evet,Diabet
+Ronald Smith,Erkek,68,178,Yüksek,185,Hayır,Kalp Hastalığı
+Brandon Thomas,Kadın,23,199,Normal,259,Evet,Kalp Hastalığı
+Marvin Mendoza,Kadın,74,126,Yüksek,258,Evet,Kalp Hastalığı
+James Munoz,Erkek,68,135,Yüksek,141,Evet,Kanser
+Patricia White,Kadın,38,131,Yüksek,106,Evet,Kalp Hastalığı
+Harold Burgess,Kadın,90,124,Yüksek,243,Hayır,Kalp Hastalığı
+Michael Moore,Erkek,68,112,Normal,167,Evet,Kanser
+Jennifer Johnson,Erkek,36,90,Normal,222,Hayır,Astım
+Christopher Olson,Erkek,27,110,Normal,109,Evet,Astım
+Kurt Harris,Erkek,41,181,Normal,152,Hayır,Astım
+Kathleen Whitney,Kadın,72,80,Yüksek,257,Hayır,Kalp Hastalığı
+Kayla Cook,Erkek,24,154,Yüksek,131,Hayır,Hipertansiyon
+Dawn Day,Kadın,73,196,Yüksek,291,Hayır,Kanser
+Glenda Valencia,Kadın,57,95,Yüksek,214,Hayır,Astım
+Ryan Anderson,Erkek,29,193,Normal,155,Evet,Kalp Hastalığı
+Eddie Mcintosh,Erkek,45,161,Normal,136,Evet,Hipertansiyon
+Amy Hernandez,Erkek,83,93,Yüksek,286,Hayır,Kalp Hastalığı
+Christopher Walker,Erkek,84,171,Normal,135,Evet,Diabet
+Rose Lopez,Erkek,26,124,Yüksek,281,Evet,Astım
+Stephen Jackson,Kadın,26,110,Yüksek,246,Evet,Astım
+Timothy Jensen,Erkek,44,144,Normal,104,Evet,Kalp Hastalığı
+Amanda Wright,Erkek,32,102,Normal,142,Hayır,Diabet
+William Alexander,Erkek,78,135,Yüksek,163,Hayır,Diabet
+Christina Williams,Erkek,69,86,Yüksek,155,Hayır,Astım
+Matthew Medina,Kadın,73,83,Yüksek,257,Hayır,Kanser
+Alice Parker,Erkek,22,185,Yüksek,210,Hayır,Hipertansiyon
+Jaime Wilson,Kadın,71,162,Normal,116,Evet,Kalp Hastalığı
+Kyle Olson,Kadın,56,172,Normal,105,Hayır,Kalp Hastalığı
+Kimberly Woods,Kadın,39,151,Normal,157,Hayır,Astım
+Lori Chandler,Kadın,60,126,Normal,119,Evet,Kalp Hastalığı
+Robert Poole,Erkek,70,169,Normal,109,Evet,Hipertansiyon
+Shelly Olsen,Erkek,70,152,Yüksek,228,Evet,Kanser
+Jeremy Stephens,Kadın,27,106,Yüksek,253,Evet,Astım
+Lawrence Sharp,Kadın,62,183,Yüksek,159,Hayır,Diabet
+Amanda Lopez,Kadın,33,191,Yüksek,265,Evet,Astım
+Debra Lawson,Kadın,48,120,Yüksek,214,Hayır,Astım
+Tracey Wilson,Erkek,53,189,Yüksek,205,Evet,Astım
+Jeremy Thompson,Kadın,80,161,Yüksek,261,Evet,Astım
+Brittany Sweeney,Erkek,61,90,Normal,109,Hayır,Astım
+Sarah Clark,Kadın,79,121,Yüksek,162,Evet,Hipertansiyon
+Craig Beltran,Erkek,44,129,Normal,170,Hayır,Diabet
+Miss Carrie Carpenter MD,Kadın,81,143,Yüksek,175,Hayır,Kanser
+Shirley Johnson,Kadın,49,133,Yüksek,118,Hayır,Kanser
+Joshua Irwin,Kadın,25,107,Yüksek,223,Hayır,Astım
+Tony Marquez,Erkek,26,126,Yüksek,165,Hayır,Astım
+Alan Vaughn,Erkek,46,115,Yüksek,176,Hayır,Hipertansiyon
+Martin Hill,Erkek,38,194,Normal,107,Hayır,Diabet
+Brian Johnson,Kadın,85,143,Yüksek,288,Evet,Kanser
+Dr. Gregory Leonard MD,Erkek,35,104,Yüksek,139,Evet,Kanser
+Carmen Bennett,Erkek,21,116,Yüksek,147,Evet,Astım
+Curtis Keller,Kadın,80,101,Normal,256,Hayır,Diabet
+Susan Fischer,Kadın,33,128,Yüksek,166,Evet,Hipertansiyon
+Stephanie Russell,Erkek,44,88,Yüksek,160,Evet,Hipertansiyon
+Melissa Brown,Kadın,90,173,Normal,184,Hayır,Diabet
+Sheila Herring,Kadın,31,143,Yüksek,156,Evet,Hipertansiyon
+Jessica Mcneil,Erkek,58,165,Normal,264,Evet,Diabet
+Jacob Bradley,Kadın,73,126,Normal,290,Hayır,Kanser
+Tonya Wells,Kadın,65,163,Normal,253,Hayır,Kanser
+Carl Richard II,Kadın,57,188,Yüksek,268,Hayır,Kalp Hastalığı
+Ashley Sanchez,Kadın,33,126,Yüksek,175,Hayır,Kalp Hastalığı
+David Johnson,Kadın,54,167,Normal,296,Evet,Hipertansiyon
+Jamie Mack,Erkek,21,199,Normal,164,Hayır,Hipertansiyon
+Tammy Smith,Erkek,51,171,Normal,114,Hayır,Diabet
+Patricia Schroeder,Kadın,37,118,Yüksek,236,Evet,Hipertansiyon
+Sara Henderson,Erkek,49,200,Normal,112,Evet,Kalp Hastalığı
+Pam Carter,Erkek,41,199,Normal,288,Evet,Diabet
+Jennifer Morris,Erkek,60,172,Normal,188,Hayır,Hipertansiyon
+Tina Barker,Erkek,74,133,Yüksek,175,Hayır,Kanser
+Katelyn Weber,Kadın,81,174,Yüksek,246,Evet,Diabet
+Rachel Sawyer,Kadın,37,96,Normal,210,Hayır,Astım
+Barbara Tran,Kadın,33,174,Yüksek,109,Hayır,Hipertansiyon
+Caroline Parker,Kadın,45,198,Yüksek,201,Hayır,Kanser
+Travis Solis,Kadın,78,126,Normal,193,Hayır,Kalp Hastalığı
+Sarah Ryan,Kadın,77,133,Normal,213,Evet,Astım
+Denise Hamilton,Erkek,29,126,Normal,281,Evet,Astım
+Robert Howard,Erkek,66,156,Normal,102,Evet,Astım
+Matthew Valenzuela,Erkek,57,89,Yüksek,223,Evet,Kanser
+Thomas Martinez,Erkek,58,152,Yüksek,250,Evet,Hipertansiyon
+Gabriella Smith,Kadın,90,188,Yüksek,246,Evet,Diabet
+Michael Mercado,Erkek,21,133,Normal,166,Hayır,Diabet
+Thomas Stewart,Kadın,80,119,Normal,300,Evet,Kanser
+Christine Robbins,Kadın,23,187,Yüksek,108,Hayır,Hipertansiyon
+Michael Morales,Erkek,66,175,Yüksek,175,Evet,Kalp Hastalığı
+Kerry Beltran,Kadın,75,103,Normal,286,Hayır,Diabet
+Amanda Payne,Erkek,88,179,Normal,212,Hayır,Diabet
+Timothy Woodard,Kadın,62,171,Normal,202,Hayır,Hipertansiyon
+Charles Johnson,Erkek,18,153,Yüksek,159,Hayır,Diabet
+Gary Ball,Kadın,44,102,Yüksek,289,Evet,Kalp Hastalığı
+Tommy Nielsen,Erkek,28,125,Yüksek,247,Evet,Hipertansiyon
+Melissa Kennedy,Erkek,49,107,Yüksek,240,Hayır,Kanser
+Gregory Cole,Kadın,57,153,Yüksek,286,Evet,Astım
+Tammy Myers,Erkek,80,190,Yüksek,127,Evet,Kalp Hastalığı
+Wanda Thompson,Kadın,73,149,Normal,216,Hayır,Diabet
+Kristie Acosta,Kadın,89,125,Normal,262,Evet,Kanser
+Krista Roach,Erkek,86,176,Normal,204,Evet,Hipertansiyon
+Cheryl Palmer,Kadın,40,177,Normal,182,Evet,Hipertansiyon
+Matthew Hernandez,Erkek,49,90,Normal,138,Hayır,Kalp Hastalığı
+Kimberly Boyd,Erkek,53,127,Yüksek,192,Evet,Kalp Hastalığı
+Kristin David,Kadın,31,85,Yüksek,109,Evet,Diabet
+Daniel Thomas,Erkek,30,84,Normal,218,Evet,Astım
+Brian Castillo,Kadın,76,191,Normal,244,Evet,Kanser
+Nicholas Fuller,Erkek,45,149,Yüksek,268,Hayır,Kalp Hastalığı
+Zachary Washington,Erkek,72,193,Yüksek,268,Evet,Kalp Hastalığı
+Kimberly Cordova,Erkek,87,176,Normal,202,Evet,Kanser
+Mr. Darrell Kirby DVM,Kadın,70,97,Yüksek,125,Hayır,Kanser
+Melissa Owens,Kadın,71,187,Normal,193,Hayır,Astım
+Jason Barber,Kadın,22,199,Normal,208,Hayır,Hipertansiyon
+Michael Mcpherson,Kadın,37,197,Yüksek,147,Evet,Diabet
+April Cantrell,Kadın,72,175,Yüksek,226,Evet,Hipertansiyon
+Jennifer Bailey,Kadın,54,96,Normal,164,Hayır,Hipertansiyon
+Megan Garcia,Kadın,56,85,Normal,159,Hayır,Diabet
+Victoria Newman,Erkek,42,171,Yüksek,205,Hayır,Diabet
+James Carter,Erkek,69,137,Yüksek,251,Hayır,Kalp Hastalığı
+Kimberly Knight,Erkek,31,148,Yüksek,216,Evet,Diabet
+Travis Weiss,Erkek,34,102,Normal,233,Evet,Diabet
+Robert Wilson,Kadın,45,197,Yüksek,152,Hayır,Diabet
+Ashley Villanueva,Erkek,74,88,Normal,258,Hayır,Astım
+Bryan Hancock,Kadın,59,178,Yüksek,234,Evet,Hipertansiyon
+Joseph Hardin,Erkek,54,134,Normal,227,Evet,Hipertansiyon
+Michael Hughes,Kadın,56,132,Yüksek,202,Evet,Kalp Hastalığı
+Eric Watson,Erkek,90,159,Yüksek,243,Hayır,Astım
+Annette Hubbard,Erkek,31,101,Yüksek,157,Evet,Hipertansiyon
+Kathryn Morris,Erkek,74,179,Yüksek,247,Evet,Diabet
+Johnny Mahoney,Erkek,70,86,Normal,208,Evet,Diabet
+Michael Jones,Kadın,67,110,Normal,122,Hayır,Kalp Hastalığı
+Katherine Lowery,Kadın,56,135,Normal,134,Evet,Diabet
+John Bolton,Kadın,54,163,Yüksek,218,Evet,Kalp Hastalığı
+Erika Carroll,Erkek,68,106,Yüksek,190,Hayır,Kalp Hastalığı
+Anthony Robinson,Erkek,39,161,Yüksek,102,Hayır,Diabet
+Raymond Morris,Erkek,87,190,Yüksek,128,Hayır,Kanser
+James Christian,Erkek,88,181,Yüksek,274,Evet,Astım
+Michael Mathis,Kadın,75,167,Normal,238,Evet,Astım
+Janet Morales,Kadın,54,195,Yüksek,142,Evet,Hipertansiyon
+Jason Jones,Erkek,63,150,Yüksek,243,Evet,Astım
+Kevin Ayers DDS,Kadın,40,144,Normal,134,Evet,Hipertansiyon
+Teresa Barber,Erkek,72,118,Yüksek,207,Evet,Diabet
+Roger Lawrence,Kadın,52,100,Normal,206,Hayır,Hipertansiyon
+Robert Wagner,Kadın,57,142,Normal,197,Hayır,Diabet
+Patrick Cook,Erkek,88,109,Normal,220,Evet,Astım
+Patrick Carson,Kadın,86,195,Normal,257,Evet,Diabet
+Stephanie Williams,Erkek,33,132,Normal,161,Evet,Diabet
+Dana Smith,Kadın,49,113,Yüksek,207,Evet,Kanser
+Anthony Stone,Kadın,61,94,Normal,236,Evet,Diabet
+Linda Thomas,Erkek,55,99,Yüksek,277,Hayır,Astım
+Robert Schmidt,Kadın,47,175,Yüksek,153,Hayır,Kanser
+Brenda Jenkins,Erkek,69,111,Normal,126,Hayır,Diabet
+Alicia Ruiz,Kadın,83,152,Yüksek,151,Hayır,Kalp Hastalığı
+Andrew Williams,Erkek,25,100,Normal,219,Hayır,Kalp Hastalığı
+Joann Torres,Erkek,44,93,Normal,142,Hayır,Kalp Hastalığı
+Nicholas Page,Kadın,50,160,Yüksek,212,Hayır,Diabet
+Krista Gilmore,Erkek,73,164,Normal,162,Hayır,Diabet
+Christopher Reeves,Kadın,69,184,Yüksek,121,Hayır,Astım
+Tony Montgomery,Kadın,50,183,Normal,109,Evet,Kalp Hastalığı
+April Blair,Kadın,84,194,Normal,141,Evet,Kanser
+Travis Stewart,Kadın,49,159,Normal,156,Evet,Kanser
+Gina Lowe,Kadın,69,136,Normal,171,Evet,Hipertansiyon
+Barbara Cabrera,Erkek,28,124,Normal,185,Hayır,Hipertansiyon
+Lauren Cunningham,Erkek,34,187,Yüksek,177,Hayır,Astım
+Lisa Fletcher,Erkek,40,197,Yüksek,190,Evet,Kanser
+Nicole Hoffman,Erkek,37,129,Normal,256,Hayır,Hipertansiyon
+Kendra Phillips,Erkek,48,87,Yüksek,236,Evet,Diabet
+Tracey Mercado,Kadın,31,98,Yüksek,178,Evet,Kanser
+Jeffrey Kramer,Kadın,52,134,Normal,244,Evet,Diabet
+Denise Bennett,Kadın,57,175,Normal,108,Hayır,Kalp Hastalığı
+Bonnie Lewis,Erkek,50,173,Normal,180,Evet,Hipertansiyon
+Alyssa Gill,Erkek,72,144,Normal,206,Hayır,Hipertansiyon
+Alex Burgess,Kadın,26,168,Yüksek,248,Evet,Kanser
+Elizabeth Garcia,Erkek,34,129,Yüksek,151,Hayır,Hipertansiyon
+Jill Schwartz,Kadın,88,159,Yüksek,204,Hayır,Kalp Hastalığı
+Susan Haynes,Erkek,49,180,Yüksek,224,Hayır,Diabet
+Rodney Harris,Kadın,48,170,Normal,187,Hayır,Astım
+Timothy Barrett,Erkek,32,151,Normal,141,Evet,Diabet
+Wendy Roberts,Erkek,68,132,Normal,123,Hayır,Kanser
+Jessica Arroyo,Kadın,59,147,Yüksek,165,Hayır,Diabet
+Melissa Miller,Erkek,30,168,Yüksek,263,Evet,Astım
+Julie Foster,Erkek,50,175,Yüksek,263,Evet,Hipertansiyon
+Anthony King,Kadın,89,131,Yüksek,252,Hayır,Diabet
+Mrs. Heather Hayes MD,Erkek,33,169,Normal,204,Evet,Hipertansiyon
+Nancy Torres,Kadın,59,135,Yüksek,282,Evet,Astım
+Jamie Sparks,Erkek,65,88,Normal,103,Hayır,Astım
+Lindsey Day,Erkek,58,144,Normal,134,Evet,Astım
+Daniel Reed,Erkek,71,185,Yüksek,228,Hayır,Kalp Hastalığı
+Melissa Hernandez MD,Erkek,62,146,Normal,135,Hayır,Kalp Hastalığı
+Timothy Simpson,Kadın,78,104,Normal,144,Hayır,Diabet
+Christina Smith,Erkek,48,175,Yüksek,268,Hayır,Kanser
+James Love,Erkek,65,112,Yüksek,243,Evet,Hipertansiyon
+Elizabeth Martinez,Erkek,29,105,Yüksek,117,Evet,Diabet
+Pamela King,Kadın,67,128,Normal,244,Evet,Kanser
+Elizabeth Garcia,Kadın,90,167,Yüksek,196,Hayır,Hipertansiyon
+Gary Harvey,Erkek,40,83,Yüksek,108,Hayır,Kalp Hastalığı
+Jennifer Schmidt,Erkek,57,87,Yüksek,122,Evet,Hipertansiyon
+Robert Sandoval,Erkek,61,170,Yüksek,224,Evet,Kanser
+Brandon Taylor,Kadın,30,178,Normal,103,Hayır,Hipertansiyon
+Patricia Joseph,Erkek,33,93,Yüksek,286,Hayır,Kalp Hastalığı
+Dustin Moore,Kadın,23,182,Normal,193,Evet,Diabet
+Charles Graham,Erkek,90,174,Yüksek,236,Evet,Diabet
+Janet Harmon,Erkek,85,177,Normal,177,Evet,Kalp Hastalığı
+Anna Stephens,Erkek,63,198,Yüksek,268,Evet,Diabet
+Meagan Willis,Erkek,60,94,Normal,123,Hayır,Kanser
+Stephanie Lane,Erkek,87,190,Normal,131,Hayır,Diabet
+Gregory Kline,Kadın,86,101,Normal,182,Hayır,Hipertansiyon
+Megan Gardner,Erkek,60,189,Yüksek,165,Evet,Astım
+Felicia Stout,Kadın,87,172,Normal,299,Hayır,Kalp Hastalığı
+Richard Gross,Kadın,54,128,Normal,187,Evet,Astım
+Maureen Jones,Erkek,35,119,Normal,196,Evet,Diabet
+Monica Brock,Erkek,59,147,Yüksek,171,Hayır,Kanser
+Patricia Mitchell,Kadın,73,95,Normal,249,Hayır,Kanser
+Rachel Hernandez,Erkek,30,172,Normal,285,Evet,Kanser
+Victoria Lucas,Kadın,41,162,Yüksek,195,Evet,Kalp Hastalığı
+Megan Lee,Kadın,22,87,Normal,184,Hayır,Astım
+Christopher Hughes,Kadın,70,151,Normal,205,Hayır,Hipertansiyon
+Margaret Whitaker,Erkek,82,118,Normal,135,Hayır,Kalp Hastalığı
+Brian Gutierrez,Kadın,77,117,Yüksek,298,Evet,Kalp Hastalığı
+Michelle Phelps,Erkek,19,151,Yüksek,299,Hayır,Astım
+Elizabeth Martinez,Erkek,62,190,Yüksek,168,Evet,Kalp Hastalığı
+Jill Wright,Erkek,40,129,Normal,185,Evet,Kalp Hastalığı
+James Robinson,Erkek,81,107,Normal,151,Hayır,Kanser
+Shane Thomas,Kadın,47,96,Normal,222,Hayır,Astım
+Michelle Sheppard,Erkek,86,93,Normal,261,Hayır,Hipertansiyon
+Mercedes Barr,Kadın,88,160,Normal,108,Evet,Diabet
+Justin Miller,Erkek,41,93,Yüksek,231,Evet,Diabet
+Kathryn Cooper,Kadın,24,84,Yüksek,181,Hayır,Kanser
+Timothy Martin,Kadın,52,100,Yüksek,244,Hayır,Diabet
+Casey Brooks,Erkek,78,111,Yüksek,215,Evet,Kanser
+Sabrina Smith,Kadın,33,86,Yüksek,159,Hayır,Hipertansiyon
+Nathan Smith,Kadın,21,130,Yüksek,265,Evet,Hipertansiyon
+Laura Schroeder,Erkek,87,173,Yüksek,223,Hayır,Hipertansiyon
+Nathan Mendoza,Erkek,40,164,Normal,233,Hayır,Hipertansiyon
+Sarah Rivera,Kadın,79,80,Yüksek,164,Hayır,Kanser
+Wendy Taylor,Kadın,85,167,Yüksek,118,Evet,Astım
+Bradley Stevens,Kadın,83,125,Normal,106,Evet,Hipertansiyon
+Ariel Mendoza,Erkek,86,135,Normal,287,Hayır,Kalp Hastalığı
+Ashley Bell,Erkek,56,134,Yüksek,144,Hayır,Kalp Hastalığı
+Lauren Romero,Kadın,62,107,Normal,137,Evet,Hipertansiyon
+Brandon Ward,Kadın,89,159,Yüksek,169,Evet,Astım
+Wanda Jones,Kadın,21,98,Yüksek,211,Evet,Diabet
+James Banks,Erkek,30,159,Normal,257,Hayır,Hipertansiyon
+Brittney Burton,Kadın,20,140,Normal,120,Evet,Diabet
+Dustin Perry,Erkek,59,137,Normal,155,Hayır,Kanser
+Jennifer Anthony,Kadın,51,163,Normal,192,Evet,Kanser
+Jesse Parker,Erkek,19,97,Yüksek,108,Hayır,Astım
+Maria Spencer,Kadın,34,130,Normal,229,Evet,Kalp Hastalığı
+Sarah Pena,Erkek,55,106,Normal,241,Evet,Kanser
+Jacob Allen,Erkek,26,140,Yüksek,198,Hayır,Hipertansiyon
+Luke Graves,Erkek,88,97,Yüksek,283,Evet,Kalp Hastalığı
+Tonya Gomez,Kadın,45,150,Yüksek,115,Evet,Hipertansiyon
+William Heath,Erkek,60,88,Normal,151,Evet,Kalp Hastalığı
+Anthony Alvarez,Erkek,65,190,Yüksek,243,Hayır,Kalp Hastalığı
+Dennis Sanchez,Kadın,89,130,Normal,156,Hayır,Kanser
+Angel Kramer,Kadın,60,170,Normal,119,Evet,Diabet
+Erin Freeman,Erkek,20,146,Yüksek,251,Evet,Hipertansiyon
+Amanda Figueroa,Kadın,45,148,Normal,276,Hayır,Hipertansiyon
+Elizabeth Smith,Kadın,85,156,Normal,245,Hayır,Hipertansiyon
+Julie Owens,Erkek,41,92,Yüksek,287,Evet,Hipertansiyon
+Jennifer Howell,Erkek,55,198,Normal,222,Evet,Kanser
+Kevin Woodward,Kadın,74,196,Yüksek,300,Hayır,Astım
+Mario Harris,Kadın,85,92,Yüksek,154,Evet,Kanser
+Chase Miller MD,Kadın,46,149,Normal,218,Hayır,Kanser
+David Parker,Erkek,74,126,Normal,279,Evet,Kalp Hastalığı
+Karen Scott,Erkek,73,166,Yüksek,294,Hayır,Astım
+Morgan Horn,Erkek,42,183,Yüksek,263,Hayır,Kalp Hastalığı
+Christopher Morgan,Erkek,27,122,Yüksek,143,Evet,Astım
+Brandon Mitchell,Erkek,31,128,Normal,104,Evet,Astım
+Richard Brown,Erkek,20,122,Normal,225,Hayır,Kalp Hastalığı
+Brian Snyder,Kadın,44,98,Normal,233,Hayır,Kalp Hastalığı
+Victoria Hernandez,Kadın,41,180,Yüksek,127,Evet,Hipertansiyon
+Bethany Simmons,Erkek,39,179,Yüksek,103,Hayır,Kanser
+Rodney Meyer,Erkek,21,184,Normal,176,Hayır,Kanser
+Gina Taylor,Kadın,39,151,Yüksek,282,Evet,Diabet
+Jaime Webb,Erkek,81,109,Yüksek,164,Hayır,Astım
+Cynthia Chen,Erkek,23,130,Yüksek,156,Evet,Diabet
+Susan Marshall,Kadın,49,117,Yüksek,273,Evet,Diabet
+Shannon Miller,Kadın,22,162,Normal,144,Evet,Hipertansiyon
+Michael Johnson,Erkek,48,172,Yüksek,283,Evet,Hipertansiyon
+Lisa Moore,Kadın,45,143,Yüksek,257,Evet,Astım
+John Woodard,Kadın,23,194,Yüksek,240,Evet,Hipertansiyon
+Lauren King,Kadın,18,199,Yüksek,143,Hayır,Kanser
+Alexander Campos,Erkek,48,154,Normal,113,Hayır,Kalp Hastalığı
+Brian Chen,Kadın,47,107,Yüksek,212,Evet,Kanser
+Johnny Velazquez,Kadın,56,108,Normal,266,Hayır,Kalp Hastalığı
+Stephanie Collins,Erkek,45,175,Yüksek,175,Hayır,Astım
+Mark Reyes,Erkek,74,185,Yüksek,278,Hayır,Kanser
+Stephen Scott,Erkek,34,100,Yüksek,281,Hayır,Hipertansiyon
+Christopher Munoz,Kadın,62,158,Normal,268,Evet,Hipertansiyon
+Jason Burns DVM,Kadın,45,162,Normal,217,Hayır,Diabet
+Michael Mcclain,Erkek,76,194,Normal,174,Hayır,Kalp Hastalığı
+Chase Velez,Kadın,36,116,Yüksek,133,Evet,Diabet
+Aaron Scott,Erkek,77,166,Yüksek,209,Hayır,Kanser
+Jodi Mckay,Erkek,47,167,Normal,136,Hayır,Kalp Hastalığı
+Jennifer Noble,Kadın,26,172,Yüksek,216,Hayır,Diabet
+Joseph Lucas,Kadın,18,200,Normal,248,Hayır,Diabet
+Justin Martinez,Erkek,30,132,Normal,180,Hayır,Diabet
+Samuel Love,Kadın,19,89,Normal,212,Evet,Astım
+Teresa Frost,Erkek,47,106,Normal,292,Hayır,Hipertansiyon
+Lisa Gomez,Kadın,61,87,Yüksek,297,Evet,Diabet
+Ernest Bowers,Kadın,74,137,Yüksek,235,Hayır,Hipertansiyon
+Aaron Rowland,Kadın,21,189,Normal,235,Evet,Kanser
+Charles Howard,Erkek,34,186,Normal,260,Evet,Astım
+Andrew Mcconnell,Erkek,64,141,Yüksek,103,Hayır,Kalp Hastalığı
+Roberto Wade,Kadın,34,118,Normal,263,Evet,Astım
+Brittany Warren,Erkek,90,108,Yüksek,159,Hayır,Hipertansiyon
+Benjamin Gamble,Erkek,57,97,Normal,239,Evet,Kalp Hastalığı
+Warren Jackson,Kadın,41,91,Normal,141,Hayır,Hipertansiyon
+Joshua Thompson,Kadın,18,81,Normal,187,Hayır,Kanser
+Leslie Austin,Erkek,85,153,Normal,297,Evet,Hipertansiyon
+Sarah Grimes,Kadın,65,197,Normal,146,Evet,Diabet
+Lindsey Hendricks,Kadın,89,91,Normal,191,Evet,Astım
+Jessica Robinson,Kadın,78,147,Normal,226,Evet,Kalp Hastalığı
+Nicholas Marquez,Erkek,79,154,Yüksek,275,Hayır,Kanser
+Linda Richard,Kadın,19,141,Yüksek,163,Evet,Hipertansiyon
+Sonia Medina,Kadın,55,93,Yüksek,227,Hayır,Hipertansiyon
+Megan Andrews,Erkek,31,151,Normal,299,Hayır,Kanser
+Jonathan Manning,Erkek,44,166,Normal,254,Evet,Kalp Hastalığı
+Joseph King,Kadın,33,172,Normal,265,Evet,Hipertansiyon
+Daniel Scott,Kadın,57,119,Normal,175,Evet,Kalp Hastalığı
+Nicole Williams,Erkek,46,135,Normal,233,Hayır,Kanser
+John Bailey,Erkek,51,111,Normal,243,Hayır,Kanser
+Larry Baker,Kadın,41,83,Normal,141,Hayır,Kalp Hastalığı
+Sarah Oliver,Kadın,49,195,Yüksek,208,Hayır,Kanser
+Frank Oconnell,Erkek,54,142,Normal,230,Evet,Kanser
+Michael Olson,Erkek,21,167,Yüksek,206,Hayır,Astım
+William Hebert,Kadın,54,80,Normal,145,Hayır,Kalp Hastalığı
+Brian Anderson,Erkek,20,184,Normal,153,Evet,Diabet
+Charles Frost,Erkek,41,183,Normal,228,Evet,Diabet
+Peter Parker,Erkek,89,163,Yüksek,254,Hayır,Astım
+Heather Clark,Kadın,61,96,Yüksek,100,Evet,Diabet
+Aaron Hunt,Kadın,39,171,Yüksek,280,Hayır,Kanser
+Melissa Price,Erkek,45,149,Yüksek,228,Hayır,Diabet
+Katelyn Anderson,Kadın,61,146,Yüksek,183,Hayır,Hipertansiyon
+Gregory Golden,Erkek,82,192,Yüksek,107,Evet,Hipertansiyon
+Jessica Morgan,Erkek,84,123,Normal,206,Hayır,Astım
+Patrick Martinez,Erkek,72,107,Yüksek,233,Evet,Diabet
+Kristine Moore,Erkek,72,150,Normal,151,Hayır,Kanser
+John White,Kadın,53,138,Yüksek,211,Evet,Astım
+Heather Lopez,Kadın,42,111,Normal,221,Evet,Diabet
+Christopher Harrison,Kadın,52,120,Yüksek,150,Hayır,Kalp Hastalığı
+Kimberly Brown,Erkek,76,119,Yüksek,242,Hayır,Diabet
+Adriana Baldwin,Erkek,53,183,Yüksek,110,Hayır,Astım
+Tiffany Harper,Erkek,32,167,Yüksek,242,Evet,Kanser
+Christopher Lawson,Kadın,88,185,Yüksek,211,Evet,Kalp Hastalığı
+Sandra Norman,Erkek,78,165,Normal,286,Evet,Hipertansiyon
+Sabrina Weber,Kadın,37,198,Yüksek,254,Evet,Kanser
+Derrick Adams,Erkek,21,160,Normal,249,Hayır,Kanser
+Jeremy Johnston,Kadın,29,85,Normal,100,Evet,Astım
+Karen Ramirez,Kadın,47,136,Normal,297,Hayır,Astım
+Jennifer Mckenzie,Erkek,49,158,Normal,192,Evet,Hipertansiyon
+Dustin Logan,Kadın,64,97,Yüksek,263,Evet,Hipertansiyon
+Michael Wright,Erkek,56,117,Yüksek,199,Hayır,Kalp Hastalığı
+Mike Avila,Erkek,69,87,Yüksek,209,Evet,Kalp Hastalığı
+Brian Medina,Erkek,45,109,Yüksek,262,Hayır,Kalp Hastalığı
+Andrew Bryant,Kadın,77,173,Normal,270,Evet,Diabet
+Timothy Patel,Kadın,46,187,Yüksek,279,Hayır,Diabet
+Sonya Stephens,Kadın,82,155,Normal,155,Hayır,Astım
+Kayla Cortez,Kadın,79,110,Normal,257,Evet,Astım
+Patrick Davis,Erkek,58,119,Normal,102,Evet,Kalp Hastalığı
+Lisa Ho,Erkek,59,174,Normal,105,Evet,Astım
+Kimberly Parker,Erkek,45,167,Yüksek,100,Evet,Astım
+Nicole Roberts,Kadın,21,102,Normal,229,Evet,Hipertansiyon
+Kimberly Weber,Erkek,66,152,Yüksek,226,Hayır,Hipertansiyon
+Caleb Fischer,Erkek,18,133,Yüksek,238,Evet,Astım
+Regina Atkins,Kadın,24,167,Yüksek,192,Evet,Kalp Hastalığı
+Christian Kirk,Kadın,37,170,Yüksek,223,Hayır,Kanser
+Benjamin Mcmillan,Kadın,66,196,Normal,289,Hayır,Hipertansiyon
+Heidi Lee,Erkek,37,87,Yüksek,102,Evet,Hipertansiyon
+Valerie Goodwin,Erkek,79,186,Normal,162,Hayır,Diabet
+Heather Park,Erkek,81,132,Yüksek,287,Evet,Kalp Hastalığı
+Fred Tucker,Erkek,90,101,Normal,244,Hayır,Astım
+Bridget Hernandez MD,Erkek,57,183,Normal,178,Evet,Hipertansiyon
+Laura Rose,Kadın,65,135,Yüksek,163,Evet,Kanser
+Jacob Freeman Jr.,Kadın,59,153,Normal,115,Evet,Astım
+Jennifer Brown,Kadın,87,149,Yüksek,144,Evet,Hipertansiyon
+Mr. Kenneth Henderson,Erkek,31,150,Normal,276,Evet,Diabet
+Mark Byrd,Kadın,24,145,Normal,224,Hayır,Diabet
+Joseph Lopez,Kadın,33,180,Normal,214,Hayır,Diabet
+Alan Pope,Erkek,34,118,Normal,175,Hayır,Kalp Hastalığı
+Vanessa Wolf,Kadın,54,124,Yüksek,114,Evet,Diabet
+Lisa Rodriguez,Kadın,38,160,Yüksek,264,Hayır,Diabet
+Craig Guerrero,Erkek,23,172,Normal,296,Evet,Astım
+Amy Lee,Kadın,50,141,Yüksek,185,Hayır,Kalp Hastalığı
+Vincent Anderson,Erkek,39,119,Normal,177,Hayır,Astım
+Jason Watson,Erkek,51,138,Normal,213,Evet,Kanser
+Emily Chan DDS,Kadın,28,89,Normal,149,Evet,Hipertansiyon
+Marcus Lopez,Kadın,75,187,Yüksek,296,Hayır,Diabet
+Jessica Jones,Kadın,78,194,Normal,141,Hayır,Kanser
+Matthew Booker,Kadın,20,124,Normal,176,Evet,Diabet
+Thomas Lane,Kadın,90,86,Yüksek,111,Evet,Kanser
+Max Rogers,Kadın,51,136,Yüksek,164,Hayır,Diabet
+Scott Quinn,Kadın,64,136,Normal,104,Hayır,Astım
+Brittany Edwards,Erkek,79,83,Yüksek,226,Hayır,Kanser
+Mrs. Emily Lambert MD,Erkek,66,132,Yüksek,176,Hayır,Kalp Hastalığı
+Amanda Fernandez,Erkek,60,138,Normal,151,Evet,Astım
+Cheryl Johnson,Erkek,23,101,Yüksek,145,Evet,Kalp Hastalığı
+Evan Campbell,Erkek,44,102,Normal,248,Hayır,Kalp Hastalığı
+Emily Wood,Kadın,24,182,Yüksek,107,Hayır,Astım
+Brian Spence,Erkek,56,91,Yüksek,186,Hayır,Astım
+Steven Miles,Erkek,59,129,Yüksek,140,Hayır,Diabet
+Michelle Collins,Erkek,75,81,Normal,139,Evet,Kanser
+Edward Carrillo,Kadın,66,161,Normal,276,Evet,Diabet
+Elizabeth Christensen,Kadın,55,165,Normal,178,Hayır,Astım
+Miguel Wood,Erkek,61,127,Yüksek,185,Hayır,Kalp Hastalığı
+Victoria Martinez,Kadın,30,92,Yüksek,236,Hayır,Hipertansiyon
+Crystal Myers,Erkek,80,147,Yüksek,126,Evet,Kalp Hastalığı
+Laura Atkins,Erkek,88,134,Yüksek,206,Hayır,Hipertansiyon
+Henry Reeves,Kadın,33,110,Yüksek,240,Hayır,Hipertansiyon
+Frank Ramirez,Kadın,32,140,Yüksek,222,Hayır,Kanser
+Brad Torres,Kadın,51,150,Yüksek,300,Evet,Diabet
+Joseph Lara,Erkek,82,105,Yüksek,132,Hayır,Kalp Hastalığı
+Scott Thompson,Erkek,54,194,Normal,166,Evet,Astım
+Charles Nielsen,Kadın,40,101,Normal,147,Evet,Kalp Hastalığı
+Eddie Padilla,Erkek,18,103,Normal,192,Hayır,Astım
+Alyssa Williams,Kadın,35,107,Yüksek,143,Evet,Astım
+David Hood,Kadın,73,188,Yüksek,194,Evet,Diabet
+David Brown,Kadın,73,110,Normal,168,Hayır,Astım
+Nathan Kane MD,Erkek,56,104,Normal,257,Hayır,Kalp Hastalığı
+Tanya Bautista,Kadın,28,180,Yüksek,249,Evet,Astım
+Ann Barrera,Erkek,25,125,Yüksek,245,Hayır,Kanser
+Kelli Romero,Erkek,18,100,Normal,110,Evet,Diabet
+Crystal Pitts,Erkek,57,90,Yüksek,215,Hayır,Hipertansiyon
+Kendra Gray,Kadın,21,163,Normal,167,Evet,Kanser
+Gregory Jones,Erkek,49,159,Yüksek,198,Evet,Kalp Hastalığı
+David Mccullough,Kadın,35,179,Normal,134,Hayır,Kanser
+Rhonda Castro,Erkek,28,90,Yüksek,279,Hayır,Astım
+Terri Cooper,Erkek,60,115,Yüksek,209,Evet,Astım
+Michelle Walker,Erkek,65,91,Yüksek,182,Hayır,Hipertansiyon
+Brian Hudson,Kadın,29,143,Yüksek,110,Hayır,Astım
+Benjamin Davis,Kadın,62,141,Normal,283,Evet,Kanser
+Shannon Moses,Kadın,87,132,Normal,267,Evet,Kalp Hastalığı
+Bobby Osborne,Erkek,81,191,Yüksek,253,Evet,Kanser
+Anna Herman,Erkek,62,171,Normal,184,Hayır,Astım
+Robert Ryan,Kadın,63,120,Normal,179,Hayır,Kanser
+Kristin Serrano,Erkek,33,137,Yüksek,150,Hayır,Kanser
+Nicholas Santos,Erkek,23,194,Yüksek,277,Hayır,Hipertansiyon
+David Sandoval,Erkek,74,89,Normal,180,Evet,Kalp Hastalığı
+Stephanie Walker,Erkek,87,178,Normal,143,Hayır,Astım
+Roy Stark,Kadın,76,87,Yüksek,288,Evet,Hipertansiyon
+Gloria Johnson,Kadın,82,196,Yüksek,240,Hayır,Diabet
+Anita Johnson,Erkek,77,95,Yüksek,260,Evet,Diabet
+Victoria Smith,Kadın,73,118,Yüksek,131,Hayır,Kalp Hastalığı
+Peter King,Erkek,60,182,Yüksek,169,Evet,Diabet
+Lisa Cortez,Erkek,60,82,Yüksek,213,Evet,Kanser
+Christopher Simmons,Kadın,87,125,Normal,108,Hayır,Kalp Hastalığı
+Henry Dunn,Erkek,72,126,Normal,222,Evet,Hipertansiyon
+Melissa Walton,Kadın,56,97,Normal,102,Evet,Hipertansiyon
+Justin Ruiz,Kadın,64,162,Normal,158,Evet,Diabet
+Seth Oconnor,Kadın,19,187,Normal,107,Evet,Diabet
+Joseph Odonnell,Erkek,89,107,Normal,241,Hayır,Astım
+Patrick Williams,Kadın,79,104,Normal,257,Evet,Hipertansiyon
+Joseph Bryant,Erkek,18,86,Yüksek,268,Hayır,Hipertansiyon
+Jonathan Fowler,Erkek,72,177,Yüksek,278,Evet,Hipertansiyon
+Jason Wells,Erkek,20,108,Yüksek,234,Hayır,Hipertansiyon
+Wendy Wilson,Erkek,77,178,Normal,134,Evet,Kanser
+Kim Allen,Kadın,86,130,Normal,260,Hayır,Kalp Hastalığı
+Steven Oliver,Kadın,71,173,Yüksek,134,Hayır,Diabet
+Felicia Sanford,Kadın,87,120,Normal,119,Evet,Kalp Hastalığı
+Deborah Harper,Kadın,64,129,Yüksek,124,Evet,Astım
+James Bell,Kadın,35,115,Normal,278,Evet,Kalp Hastalığı
+Chad Mclaughlin,Erkek,41,200,Normal,156,Evet,Astım
+David Anderson,Kadın,74,177,Yüksek,268,Hayır,Kanser
+John Gray,Kadın,54,170,Normal,167,Hayır,Kanser
+Kathleen Braun,Erkek,34,125,Normal,204,Evet,Kalp Hastalığı
+Ashley Knight,Kadın,72,97,Normal,141,Hayır,Diabet
+Mitchell Ballard,Erkek,35,191,Normal,262,Evet,Diabet
+Christine Woodward,Kadın,63,138,Normal,160,Hayır,Diabet
+Jasmine Bradley,Kadın,59,154,Yüksek,134,Hayır,Diabet
+Julie Guerra,Erkek,51,190,Normal,131,Evet,Diabet
+Kathy Morris,Kadın,37,95,Normal,166,Hayır,Kalp Hastalığı
+Charles Cardenas,Erkek,87,155,Normal,112,Evet,Astım
+Pamela Phillips,Kadın,64,136,Yüksek,215,Hayır,Hipertansiyon
+Gabrielle Johns,Erkek,63,129,Yüksek,253,Evet,Kalp Hastalığı
+Darren Johnson,Erkek,59,175,Normal,102,Hayır,Kanser
+Alicia Barber,Kadın,55,115,Normal,196,Hayır,Kanser
+Brittney Johnson,Kadın,78,89,Yüksek,142,Evet,Diabet
+Michael Long,Erkek,52,181,Normal,117,Evet,Kalp Hastalığı
+Mario Herrera,Erkek,74,136,Normal,173,Hayır,Astım
+James Sexton,Erkek,28,136,Yüksek,172,Evet,Kanser
+Jeffrey Deleon,Kadın,57,93,Yüksek,138,Evet,Diabet
+Tina Myers,Kadın,18,165,Normal,244,Evet,Kanser
+Jessica Hendrix,Kadın,87,84,Normal,287,Evet,Diabet
+Frank Lopez,Kadın,48,175,Yüksek,163,Evet,Kalp Hastalığı
+John Valenzuela,Kadın,86,138,Yüksek,231,Hayır,Kalp Hastalığı
+Jesus Martin,Erkek,56,150,Yüksek,215,Evet,Diabet
+Bryan Rivas,Kadın,82,156,Normal,296,Evet,Hipertansiyon
+Zachary Rice,Erkek,60,90,Normal,260,Evet,Kalp Hastalığı
+Eileen Moore,Erkek,29,170,Yüksek,276,Hayır,Kalp Hastalığı
+Jamie Murphy,Erkek,87,196,Normal,103,Hayır,Kanser
+Linda Ramirez,Erkek,39,152,Normal,166,Evet,Hipertansiyon
+Elizabeth May,Kadın,71,189,Yüksek,125,Evet,Hipertansiyon
+Danielle Bradshaw,Kadın,57,133,Yüksek,174,Evet,Astım
+Tina Vasquez,Erkek,21,178,Yüksek,264,Evet,Astım
+Steven Hamilton,Kadın,74,163,Normal,188,Hayır,Kanser
+Michelle Davis,Kadın,32,190,Normal,202,Hayır,Kalp Hastalığı
+Jacob Lewis,Kadın,88,171,Normal,288,Evet,Diabet
+Thomas Williams,Kadın,22,120,Yüksek,242,Evet,Astım
+David Mccarthy,Kadın,27,118,Normal,204,Hayır,Diabet
+Paula Reilly,Kadın,39,163,Yüksek,191,Hayır,Astım
+Jasmine Mcbride MD,Erkek,65,139,Normal,246,Hayır,Hipertansiyon
+Regina Hendricks,Kadın,63,177,Normal,103,Evet,Astım
+Molly Whitehead,Erkek,34,195,Yüksek,102,Evet,Kanser
+Thomas Smith,Erkek,20,142,Normal,129,Evet,Hipertansiyon
+Heather Taylor,Erkek,19,187,Normal,213,Hayır,Diabet
+Nicholas Mendoza,Erkek,50,129,Yüksek,248,Evet,Hipertansiyon
+Sandra Hunt,Erkek,62,112,Yüksek,172,Evet,Kanser
+Carla Garcia,Kadın,29,94,Yüksek,271,Evet,Astım
+Tracey Wiley,Erkek,57,112,Yüksek,102,Hayır,Astım
+Brendan Jones,Erkek,54,185,Normal,136,Hayır,Kalp Hastalığı
+Cesar Keller,Kadın,56,164,Yüksek,178,Hayır,Kalp Hastalığı
+Nathan Townsend,Erkek,48,110,Normal,105,Evet,Kalp Hastalığı
+Alan Riley,Erkek,26,94,Yüksek,121,Hayır,Astım
+Andrew Taylor,Kadın,27,151,Normal,209,Hayır,Hipertansiyon
+Amber Beck,Kadın,63,170,Normal,291,Evet,Kalp Hastalığı
+Amanda Adams,Kadın,85,181,Yüksek,118,Hayır,Hipertansiyon
+Kayla Bass,Erkek,69,186,Yüksek,289,Hayır,Hipertansiyon
+Jordan Mcdonald,Kadın,31,81,Yüksek,188,Hayır,Diabet
+Ashley Smith,Kadın,89,107,Yüksek,294,Hayır,Diabet
+Randy Vargas,Erkek,57,102,Yüksek,243,Hayır,Kalp Hastalığı
+Steven Morgan,Erkek,46,136,Yüksek,287,Hayır,Astım
+Leslie Paul,Kadın,45,136,Yüksek,234,Hayır,Hipertansiyon
+Alexander Frye,Erkek,22,139,Yüksek,252,Hayır,Hipertansiyon
+John Oneill,Erkek,66,123,Normal,192,Hayır,Kanser
+Michelle Mcclure,Kadın,26,159,Normal,253,Evet,Diabet
+Steven Davis,Erkek,38,192,Yüksek,153,Hayır,Kanser
+Corey Mcmillan,Erkek,37,171,Normal,298,Evet,Hipertansiyon
+Brittany Bentley,Kadın,86,183,Normal,180,Hayır,Kanser
+Travis Gonzalez,Kadın,42,167,Yüksek,220,Hayır,Diabet
+Stacey Pacheco,Erkek,45,197,Normal,135,Evet,Kanser
+Tony Cox,Kadın,69,164,Normal,226,Evet,Kalp Hastalığı
+Nicole Taylor,Kadın,26,83,Yüksek,137,Evet,Diabet
+Christopher Martinez,Erkek,65,138,Yüksek,107,Hayır,Hipertansiyon
+Joy Hamilton,Erkek,36,85,Yüksek,279,Evet,Astım
+Barbara Grant,Erkek,30,183,Yüksek,151,Evet,Astım
+Travis Ward,Kadın,85,120,Yüksek,170,Evet,Kalp Hastalığı
+James Henry,Kadın,55,127,Yüksek,184,Hayır,Astım
+Ronald Wheeler,Erkek,19,196,Yüksek,165,Evet,Astım
+Jade Williamson,Erkek,54,140,Normal,147,Evet,Diabet
+Mrs. Lisa Freeman,Erkek,63,143,Yüksek,177,Hayır,Kalp Hastalığı
+Terri Duran,Erkek,27,136,Normal,159,Hayır,Diabet
+Karen Ramirez,Erkek,68,118,Normal,165,Evet,Kalp Hastalığı
+Corey Burch,Erkek,83,81,Yüksek,114,Evet,Kalp Hastalığı
+Dana Figueroa,Erkek,87,188,Normal,222,Hayır,Astım
+David Roberts,Erkek,65,149,Yüksek,141,Evet,Astım
+Jennifer Cuevas,Kadın,69,170,Yüksek,287,Evet,Hipertansiyon
+Michael Tyler,Kadın,75,148,Normal,262,Hayır,Kalp Hastalığı
+Mr. Zachary Harper,Kadın,90,135,Yüksek,235,Evet,Kanser
+Daniel Bowman,Kadın,32,185,Normal,119,Evet,Hipertansiyon
+Karen Sanchez,Erkek,57,115,Yüksek,146,Evet,Diabet
+Deanna Smith,Kadın,85,131,Yüksek,211,Evet,Hipertansiyon
+Rebecca Hill,Erkek,89,190,Normal,208,Evet,Diabet
+Jonathan Johnson,Erkek,87,144,Normal,249,Hayır,Astım
+Jennifer Huynh MD,Kadın,83,130,Normal,298,Hayır,Kalp Hastalığı
+David Quinn,Kadın,88,105,Normal,263,Hayır,Kalp Hastalığı
+Christopher Stevenson,Erkek,34,100,Yüksek,210,Hayır,Kalp Hastalığı
+Elizabeth Brown,Kadın,43,159,Normal,212,Evet,Hipertansiyon
+Brendan Perry,Kadın,53,114,Normal,119,Evet,Kanser
+Melissa Jenkins,Erkek,21,200,Normal,158,Evet,Kalp Hastalığı
+Antonio Ellison,Kadın,53,108,Yüksek,257,Hayır,Astım
+Patricia Adams,Erkek,56,126,Yüksek,240,Evet,Diabet
+Monica Bishop,Erkek,18,156,Yüksek,220,Evet,Kalp Hastalığı
+Sara James,Kadın,72,146,Normal,184,Hayır,Kalp Hastalığı
+Lisa Bright,Kadın,80,166,Yüksek,173,Evet,Hipertansiyon
+Steven Smith,Kadın,48,110,Yüksek,284,Evet,Hipertansiyon
+Terri Simpson,Kadın,40,152,Yüksek,222,Evet,Kalp Hastalığı
+Rose Hill,Erkek,39,168,Normal,139,Evet,Astım
+Derek Richmond,Erkek,79,189,Yüksek,206,Hayır,Hipertansiyon
+Thomas Vincent,Erkek,26,182,Yüksek,122,Hayır,Diabet
+Courtney Phillips,Erkek,75,192,Normal,200,Evet,Diabet
+Mrs. Debbie White,Kadın,34,122,Normal,148,Hayır,Kalp Hastalığı
+Holly Henry,Erkek,46,81,Normal,192,Evet,Kalp Hastalığı
+Darrell Villa,Kadın,24,158,Normal,145,Evet,Kanser
+Elizabeth Dillon,Kadın,72,123,Normal,276,Hayır,Hipertansiyon
+Jessica Ayers,Kadın,21,103,Normal,253,Hayır,Astım
+Bryan Sharp,Kadın,54,200,Yüksek,161,Hayır,Astım
+Steven Weaver,Kadın,51,81,Normal,285,Hayır,Astım
+Aaron Butler,Kadın,24,159,Normal,106,Evet,Hipertansiyon
+Darrell Mitchell MD,Erkek,64,137,Yüksek,299,Hayır,Astım
+Melissa Brown,Erkek,85,136,Normal,253,Evet,Astım
+Sarah Lewis,Kadın,42,135,Yüksek,140,Evet,Astım
+Jose Carter,Kadın,54,89,Normal,264,Hayır,Astım
+Bryan Burns,Erkek,86,199,Normal,172,Hayır,Diabet
+Brandon Anderson,Kadın,90,106,Yüksek,259,Hayır,Kalp Hastalığı
+Katherine Carpenter,Erkek,62,100,Normal,228,Evet,Astım
+Jack Alexander,Erkek,79,127,Normal,259,Evet,Hipertansiyon
+Jill Graham,Kadın,81,175,Normal,223,Evet,Astım
+Shane Brown,Kadın,20,169,Yüksek,106,Hayır,Astım
+Nathaniel White,Kadın,86,124,Normal,110,Hayır,Kalp Hastalığı
+Elizabeth Deleon,Kadın,33,161,Normal,119,Evet,Hipertansiyon
+Carly Anderson,Erkek,51,184,Normal,102,Evet,Diabet
+Michelle Hendricks,Kadın,76,94,Normal,250,Hayır,Kanser
+Julie Martin,Erkek,48,174,Yüksek,223,Evet,Diabet
+Henry Harding,Erkek,26,120,Yüksek,100,Evet,Hipertansiyon
+Katie Miller,Erkek,69,142,Normal,141,Hayır,Hipertansiyon
+Martha Smith,Erkek,36,174,Normal,104,Hayır,Diabet
+Warren Kelley,Erkek,28,199,Normal,293,Hayır,Astım
+Kim Wells,Erkek,33,126,Normal,227,Evet,Astım
+Jose Juarez,Erkek,49,162,Normal,211,Evet,Kalp Hastalığı
+Lauren Gomez,Kadın,65,178,Normal,135,Evet,Hipertansiyon
+Jody Johnson,Kadın,90,115,Normal,115,Hayır,Hipertansiyon
+Sarah May,Kadın,67,81,Normal,178,Evet,Diabet
+Laura Arroyo,Erkek,72,168,Yüksek,125,Hayır,Kanser
+Alicia Chavez,Kadın,24,81,Normal,139,Hayır,Hipertansiyon
+Kristina Howard,Erkek,56,107,Normal,279,Hayır,Hipertansiyon
+Richard Garner,Erkek,23,102,Normal,233,Evet,Hipertansiyon
+Taylor Howard,Erkek,31,104,Yüksek,223,Evet,Diabet
+Michael Alvarez,Erkek,65,112,Yüksek,286,Evet,Astım
+Connie Clark,Kadın,80,153,Yüksek,114,Evet,Kalp Hastalığı
+Elizabeth Williams,Kadın,24,117,Yüksek,147,Evet,Kanser
+Taylor Mitchell,Kadın,90,166,Yüksek,172,Evet,Hipertansiyon
+Dylan Glover,Erkek,44,121,Normal,141,Hayır,Kalp Hastalığı
+Stephanie Parks MD,Erkek,48,134,Yüksek,263,Evet,Astım
+Daniel Thompson,Kadın,74,187,Normal,291,Evet,Kalp Hastalığı
+Andrea Navarro,Kadın,58,187,Normal,169,Hayır,Astım
+Carl Pearson,Erkek,33,156,Yüksek,213,Evet,Kanser
+Dylan Watson,Kadın,87,95,Yüksek,146,Evet,Kanser
+Kara Lam,Erkek,61,185,Normal,245,Evet,Kalp Hastalığı
+Lauren Rivera,Erkek,45,120,Normal,264,Evet,Hipertansiyon
+Bryan Yang,Erkek,57,87,Yüksek,240,Evet,Hipertansiyon
+Kimberly Wilcox,Kadın,34,174,Normal,227,Evet,Kanser
+Emily Garcia,Kadın,61,189,Yüksek,153,Evet,Kanser
+Tommy Mejia,Erkek,76,144,Yüksek,178,Evet,Hipertansiyon
+Brittany Gay,Kadın,58,145,Yüksek,178,Hayır,Astım
+Max Smith,Kadın,54,96,Normal,142,Hayır,Kalp Hastalığı
+Rebecca Lane,Erkek,68,154,Normal,202,Evet,Astım
+Jacqueline Mccarty,Erkek,58,129,Normal,256,Hayır,Diabet
+Derek Walker,Erkek,52,91,Yüksek,300,Evet,Kalp Hastalığı
+Thomas Wells II,Erkek,75,109,Normal,214,Hayır,Kalp Hastalığı
+Chad May,Kadın,30,156,Normal,238,Hayır,Kanser
+Bruce Henry,Erkek,83,196,Normal,155,Hayır,Hipertansiyon
+Brittany Boone,Erkek,40,125,Normal,210,Evet,Hipertansiyon
+Jillian Gonzalez,Erkek,55,119,Yüksek,203,Hayır,Astım
+Elizabeth Leach,Erkek,88,122,Yüksek,193,Evet,Diabet
+Andre Ferguson,Erkek,50,92,Yüksek,158,Hayır,Kanser
+Todd Andrews,Kadın,66,112,Yüksek,109,Evet,Diabet
+Steven Vincent,Kadın,58,155,Yüksek,258,Evet,Kalp Hastalığı
+Kevin Bell,Erkek,54,199,Normal,220,Hayır,Hipertansiyon
+Kiara Jones,Erkek,64,135,Yüksek,299,Hayır,Kalp Hastalığı
+Nicholas Cherry,Kadın,66,109,Yüksek,285,Hayır,Hipertansiyon
+Tina Sheppard,Kadın,20,152,Yüksek,114,Evet,Astım
+Suzanne Ford,Erkek,66,159,Yüksek,194,Evet,Kalp Hastalığı
+Julie Long,Kadın,81,179,Yüksek,289,Evet,Kanser
+Justin Harding,Erkek,74,126,Normal,211,Evet,Astım
+Michael Kaufman,Kadın,42,114,Yüksek,184,Hayır,Kanser
+Jennifer Lowe,Erkek,50,91,Normal,150,Hayır,Kalp Hastalığı
+Jill Reynolds,Erkek,20,114,Normal,232,Evet,Astım
+Emily Jones,Kadın,55,115,Normal,238,Hayır,Astım
+Charlotte Curtis,Kadın,54,138,Normal,283,Evet,Hipertansiyon
+Mike Hood,Erkek,24,151,Normal,298,Evet,Hipertansiyon
+Kenneth Williams,Kadın,55,94,Normal,128,Evet,Hipertansiyon
+Tiffany Smith DVM,Kadın,82,140,Yüksek,292,Hayır,Kanser
+Christopher Elliott,Erkek,90,107,Yüksek,204,Evet,Kanser
+Alicia Cobb,Erkek,50,83,Yüksek,152,Evet,Astım
+Jordan Fisher,Kadın,74,147,Normal,164,Evet,Kalp Hastalığı
+Gregory Garcia,Kadın,75,186,Normal,264,Evet,Kanser
+Ricky Green,Erkek,53,167,Normal,294,Evet,Kanser
+Amanda Barr,Erkek,77,114,Normal,154,Hayır,Astım
+Grant Powell,Erkek,32,176,Normal,249,Hayır,Diabet
+Alexandra Collins,Kadın,66,193,Yüksek,280,Hayır,Diabet
+Shirley Mueller,Kadın,31,176,Yüksek,167,Hayır,Kalp Hastalığı
+Chad Morris,Kadın,75,138,Normal,102,Evet,Kalp Hastalığı
+Jenna Ball,Erkek,49,150,Normal,276,Hayır,Hipertansiyon
+Christopher Coleman,Erkek,50,169,Yüksek,278,Evet,Kanser
+Nicole Avila,Kadın,77,191,Yüksek,211,Hayır,Astım
+Christina Goodwin,Kadın,38,185,Yüksek,144,Evet,Diabet
+Brandon Peterson,Kadın,22,177,Normal,274,Evet,Astım
+Shawna Reeves,Erkek,57,150,Normal,162,Hayır,Astım
+Phillip Gibson,Kadın,45,173,Normal,138,Evet,Diabet
+Samantha Washington,Kadın,30,192,Yüksek,174,Hayır,Diabet
+Connie Thomas,Kadın,48,118,Normal,260,Hayır,Astım
+Dr. Vincent Ferguson III,Kadın,23,131,Normal,228,Hayır,Hipertansiyon
+Keith Reynolds,Erkek,88,122,Yüksek,141,Evet,Hipertansiyon
+James Fletcher,Erkek,41,118,Yüksek,234,Hayır,Kalp Hastalığı
+Anthony Barber,Kadın,60,174,Normal,109,Evet,Kalp Hastalığı
+Angel King,Erkek,32,153,Normal,143,Hayır,Hipertansiyon
+Renee Chang,Kadın,50,149,Yüksek,287,Hayır,Kalp Hastalığı
+Bruce Andrade,Kadın,73,168,Yüksek,277,Hayır,Kanser
+Gerald Harrell,Erkek,73,127,Yüksek,294,Hayır,Astım
+Vincent Sparks,Kadın,29,170,Yüksek,162,Hayır,Diabet
+Richard Brown,Erkek,50,110,Normal,102,Evet,Diabet
+Jason Wilson,Erkek,32,193,Yüksek,119,Hayır,Hipertansiyon
